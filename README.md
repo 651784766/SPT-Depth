@@ -34,7 +34,7 @@ Get the links of the following models:
 + [```SPT-large.p```]
 + Other models coming soon...
 
-And put the ```.p``` file into the directory ```models/```. After that, you need to update the ```config.json``` ([Tutorial here](https://github.com/antocad/FocusOnDepth/wiki/Config-Wiki)) according to the pre-trained model you have chosen to run the predictions (this means that if you load a depth-only model, then you have to set ```type``` to ```depth``` for example ...).
+And put the ```.p``` file into the directory ```models/```. After that, you need to update the ```config.json```  according to the pre-trained model you have chosen to run the predictions (this means that if you load a depth-only model, then you have to set ```type``` to ```depth``` for example ....
 
 ### :dart: Run a prediction
 
